@@ -205,8 +205,7 @@ The model performs reasonably well compared to the baseline approaches in litera
     *   Li, X., Ding, Q., & Sun, J. Q. (2018). Remaining useful life estimation in prognostics using deep convolution neural networks. *Reliability Engineering & System Safety, 172*, 1-11.
     *   Lundberg, S. M., & Lee, S. I. (2017). A unified approach to interpreting model predictions. *In Advances in neural information processing systems* (pp. 4765-4774). (SHAP paper)
 
-*(Users should review and update this list with papers that most directly influenced their specific implementation.)*
-
+ 
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
@@ -216,14 +215,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 4.  Push to the branch (`git push origin feature/your-feature-name`).
 5.  Open a Pull Request.
 
-Please ensure your code adheres to existing styling and includes tests where appropriate.
-
+ 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details (if one exists, otherwise specify, e.g., "This project is licensed under the MIT License.").
-
-## Acknowledgements
-*   This project heavily relies on the C-MAPSS dataset provided by the **NASA Prognostics Center of Excellence**.
-*   The implementation may draw inspiration from various research papers and open-source projects in the field of prognostics, health management, and deep learning.
-*   Thanks to the developers of TensorFlow/Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit, and SHAP for their invaluable open-source tools.
-
+This project is licensed under the MIT License 
